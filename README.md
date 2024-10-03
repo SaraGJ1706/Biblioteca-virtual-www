@@ -18,3 +18,6 @@
 - Su principal función es la de aportar acceso a todo tipo de información nacional.
 
 **2. Historia resumida de la Bibliotecas virtual:**
+
+- La biblioteca virtual www
+
