@@ -10,7 +10,7 @@
 |Datos| Información|
 |:----------:|:----------:|
 |**Fecha de creación**|1991|
-|**Nombre del creador **|Tim Berners-Lee|
+|**Nombre del creador**|Tim Berners-Lee|
 |**Objetivó** | Servir como directorio de sitios y recursos en internet|
 
 **2. ¿Qué es y para que sirve la biblioteca virtual www?**
